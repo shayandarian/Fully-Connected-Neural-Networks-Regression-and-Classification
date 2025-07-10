@@ -1,4 +1,5 @@
 This project is from 2024.<br/>
+Topics: Fully Conncted Neural Networks - Regression and Classification.<br/><br/>
 # Datasets:
 The datasets used for this project were:<br/>
   1. The [Diabetes](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset) dataset from scikit-learn, which includes baseline variables for diabetes patients, along with a quantitative measure of disease progression one year after baseline.<br/>
